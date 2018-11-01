@@ -34,7 +34,7 @@ public class Solver {
 		}
 		/**
 		 * 采取的启发函数h(n)=P(n)，即每个数码与其目标位置之间距离的总和
-		 * @return
+		 * @return 
 		 */
 		private int cntH() {
 			int c = 0;
